@@ -12,7 +12,7 @@ const Header = () => {
         </h1>
         <p>
           Here you will find some information about GPT-3, like how does it
-          work, what can GPT-3 do aand a lot of curiosities about it!
+          work, what can GPT-3 do and a lot of curiosities about it!
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address " />
