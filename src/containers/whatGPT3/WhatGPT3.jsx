@@ -14,8 +14,17 @@ const WhatGPT3 = () => (
       <h1 className="gradient__text">
         The possibilities are beyond your imagination
       </h1>
-      <p>Explore the Library</p>
+      <p>
+        <a
+          href="https://www.techtarget.com/searchenterpriseai/definition/GPT-3"
+          target="blank"
+        >
+          {" "}
+          Read more about it{" "}
+        </a>{" "}
+      </p>
     </div>
+
     <div className="gpt3__whatgpt3-container">
       <Feature
         title="What can GPT-3 do?"

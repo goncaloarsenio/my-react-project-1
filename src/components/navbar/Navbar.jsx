@@ -16,7 +16,7 @@ const Menu = () => (
       <a href="#possibility">Open AI</a>
     </p>
     <p>
-      <a href="#ftures">Case Studies</a>
+      <a href="#ftures">Benefits</a>
     </p>
     <p>
       <a href="#blog">Library</a>
@@ -36,10 +36,10 @@ const Navbar = () => {
           <Menu />
         </div>
       </div>
-      <div className="gpt3__navbar-sign">
+      {/* <div className="gpt3__navbar-sign">
         <p>Sign in</p>
         <button type="button">Sign up</button>
-      </div>
+      </div> */}
       <div className="gpt3__navbar-menu">
         {toggleMenu ? (
           <RiCloseLine

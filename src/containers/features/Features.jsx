@@ -4,30 +4,27 @@ import "./features.css";
 
 const featuresData = [
   {
-    title: "Improving end distrusts instantly",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    title: "Benefit 1:",
+    text: "Whenever a large amount of text needs to be generated from a machine based on some small amount of text input, GPT-3 provides a good solution. Large language models, like GPT-3, are able to provide decent outputs given a handful of training examples.",
   },
   {
-    title: "Become the tended active",
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+    title: "Benefit 2:",
+    text: "GPT-3 also has a wide range of artificial intelligence applications. It is task-agnostic, meaning it can perform a wide bandwidth of tasks without fine-tuning.",
   },
   {
-    title: "Message or am nothing",
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+    title: "Benefit 3:",
+    text: "As with any automation, GPT-3 would be able to handle quick repetitive tasks, enabling humans to handle more complex tasks that require a higher degree of critical thinking.",
   },
   {
-    title: "Really boy law county",
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..",
+    title: "Benefit 4:",
+    text: "GPT-3 is lightweight and can run on a consumer laptop or smartphone.",
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="ftures">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">
-        The Future is Now and You Just Need to Realize It. Step into Future
-        Today. & Make it Happen.
-      </h1>
+      <h1 className="gradient__text">What are the benefits of GPT-3 ?</h1>
       <p>Request Early Access to Get Started</p>
     </div>
     <div className="gpt3__features-container">
