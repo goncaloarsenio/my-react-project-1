@@ -9,12 +9,21 @@ const Possibility = () => {
         <img src={possibilityImage} alt="possibility" />
       </div>
       <div className="gpt3__possibility-content">
-        <h4>Request Early Access to Get Started</h4>
         <h1 className="gradient__text">
-        The possibilities are beyond your imagination
+          GPT-3 powers the next generation of apps
         </h1>
-        <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-        <h4>Request Early Access to Get Started</h4>
+        <p>
+          Over 300 applications are delivering GPT-3–powered search,
+          conversation, text completion, and other advanced AI features through
+          our API.
+        </p>
+        <a
+          href="https://openai.com/blog/gpt-3-apps"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <h4>Find out more about it!</h4>{" "}
+        </a>
       </div>
     </div>
   );
