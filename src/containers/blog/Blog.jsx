@@ -23,8 +23,8 @@ const Blog = () => {
         <div className="gpt3__blog-container_groupB">
           <Article
             imgUrl={blog02}
-            date="Nov 22, 2022"
-            title='"Why we do not use GPT-3"'
+            date="Feb 21, 2023"
+            title="What GPT-3 Taught ChatGPT in a Year"
             url2="Read the full article"
           />{" "}
           <Article
@@ -41,8 +41,8 @@ const Blog = () => {
           />{" "}
           <Article
             imgUrl={blog05}
-            date="Feb 21, 2023"
-            title="What GPT-3 Taught ChatGPT in a Year"
+            date="Nov 22, 2022"
+            title='"Why we do not use GPT-3"'
             url5="Read the full article"
           />
         </div>

@@ -25,7 +25,7 @@ const Article = ({ imgUrl, date, title, url, url2, url3, url4, url5 }) => {
           <h5>
             {" "}
             <a
-              href="https://www.articleforge.com/blog/why-we-dont-use-gpt-3/"
+              href="https://www.trendmicro.com/en_fi/research/23/b/review-what-gpt-3-taught-chatgpt-in-a-year.html"
               target="_blank"
               rel="noreferrer"
             >
@@ -55,7 +55,7 @@ const Article = ({ imgUrl, date, title, url, url2, url3, url4, url5 }) => {
           <h5>
             {" "}
             <a
-              href="https://www.trendmicro.com/en_fi/research/23/b/review-what-gpt-3-taught-chatgpt-in-a-year.html"
+              href="https://www.articleforge.com/blog/why-we-dont-use-gpt-3/"
               target="_blank"
               rel="noreferrer"
             >
