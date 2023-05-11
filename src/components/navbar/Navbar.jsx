@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/GPT-4.png";
 import "./navbar.css";
 // BEM -> Block Element Modifier
 
@@ -58,10 +58,10 @@ const Navbar = () => {
           <div className="gpt3__navbar-menu_container scale-up-center">
             <div className="gpt3__navbar-menu_container-links">
               <Menu />
-              <div className="gpt3__navbar-menu_container-links-sign">
+             {/*  <div className="gpt3__navbar-menu_container-links-sign">
                 <p>Sign in</p>
                 <button type="button">Sign up</button>
-              </div>
+              </div> */}
             </div>
           </div>
         )}
