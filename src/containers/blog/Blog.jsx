@@ -41,7 +41,7 @@ const Blog = () => {
           />{" "}
           <Article
             imgUrl={blog05}
-            date="Nov 22, 2022"
+            date="Apr 15, 2023"
             title="GPT-4 Capable of Doing Autonomous Scientific Research
 "
             url5="Read the full article"

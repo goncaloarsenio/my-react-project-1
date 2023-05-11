@@ -21,11 +21,12 @@
 .gpt3__blog-container {
   display: flex;
   flex-direction: row;
+  text-decoration: underline;
 }
 
 .gpt3__blog-container_groupA {
   flex: 0.75;
-  margin: 2rem;
+  margin-right: 2rem;
 }
 .gpt3__blog-container_groupB {
   flex: 1;
