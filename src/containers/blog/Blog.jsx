@@ -15,34 +15,35 @@ const Blog = () => {
         <div className="gpt3__blog-container_groupA">
           <Article
             imgUrl={blog01}
-            date="Sep 24, 2020"
-            title="GPT-3: The good, the bad and the ugly"
+            date="Mar 16, 2023"
+            title="What the New GPT-4 AI Can Do"
             url="Read the full article"
           />
         </div>
         <div className="gpt3__blog-container_groupB">
           <Article
             imgUrl={blog02}
-            date="Feb 21, 2023"
-            title="What GPT-3 Taught ChatGPT in a Year"
+            date="Mar 16, 2023"
+            title="GPT-4 is here: what scientists think"
             url2="Read the full article"
           />{" "}
           <Article
             imgUrl={blog03}
-            date="Feb 24, 2021"
-            title="Why GPT-3 is the best and worst of AI"
+            date="Mar, 2023"
+            title="OpenAI says new model GPT-4 is more creative and less likely to invent facts"
             url3="Read the full article"
           />{" "}
           <Article
             imgUrl={blog04}
-            date="Jul 19, 2020"
-            title="GPT-3 Is Amazing—And Overhyped"
+            date="Mar 16, 2023"
+            title="Evolution not revolution: why GPT-4 is notable, but not groundbreaking"
             url4="Read the full article"
           />{" "}
           <Article
             imgUrl={blog05}
             date="Nov 22, 2022"
-            title='"Why we do not use GPT-3"'
+            title="GPT-4 Capable of Doing Autonomous Scientific Research
+"
             url5="Read the full article"
           />
         </div>

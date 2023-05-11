@@ -8,7 +8,7 @@ const CTA = () => {
         <h3>Start exploring the endless possiblities.</h3>
       </div>
       <div className="gpt3__cta-button">
-      <a href="https://openai.com/blog/chatgpt" target="_blank" rel="noreferrer">
+      <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
         <button type="button" >Get Started</button>
         </a>
       </div>

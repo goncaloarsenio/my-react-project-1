@@ -8,10 +8,10 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">
-          Discovering more about GPT-3 OpenAI
+          Discovering more about GPT-4 OpenAI
         </h1>
         <p>
-          This is an informative and modern UX/UI website about GPT-3, made to give you some info about it. <br />
+          This is an informative website about GPT-4, made to give you some info about it. <br />
           I Hope you like it!
         </p>
        {/*  <div className="gpt3__header-content__input">

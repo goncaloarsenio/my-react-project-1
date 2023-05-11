@@ -44,6 +44,20 @@
   line-height: 24px;
   color: var(--color-text);
 }
+.gpt3__features-container_feature-text-more {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: var(--color-text);
+  margin-top: 1rem;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.gpt3__features-container_feature-text-more:hover{
+  color: coral;
+}
 
 @media screen and (max-width: 550px) {
   .gpt3__features-container__feature-title h1 {

@@ -4,28 +4,30 @@ import "./features.css";
 
 const featuresData = [
   {
-    title: "Benefit 1:",
-    text: "Whenever a large amount of text needs to be generated from a machine based on some small amount of text input, GPT-3 provides a good solution. Large language models, like GPT-3, are able to provide decent outputs given a handful of training examples.",
+    title: "Creativity",
+    text: "GPT-4 is more creative and collaborative than ever before. It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user’s writing style.",
   },
+
   {
-    title: "Benefit 2:",
-    text: "GPT-3 also has a wide range of artificial intelligence applications. It is task-agnostic, meaning it can perform a wide bandwidth of tasks without fine-tuning.",
+    title: "Longer context",
+    text: "GPT-4 is capable of handling over 25,000 words of text, allowing for use cases like long form content creation, extended conversations, and document search and analysis.",
   },
+  
   {
-    title: "Benefit 3:",
-    text: "As with any automation, GPT-3 would be able to handle quick repetitive tasks, enabling humans to handle more complex tasks that require a higher degree of critical thinking.",
+    title: "Visual input",
+    text: "GPT-4 can accept images as inputs and generate captions, classifications, and analyses.",
   },
-  {
+  
+ /*  {
     title: "Benefit 4:",
     text: "GPT-3 is lightweight and can run on a consumer laptop or smartphone.",
-  },
+  }, */
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="ftures">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">What are the benefits of GPT-3 ?</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">What are the benefits of GPT-4 ?</h1>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (
