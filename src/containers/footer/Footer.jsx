@@ -11,7 +11,7 @@ const Footer = () => {
         </h1>
       </div>
       <div className="gpt3__footer-btn">
-        <p>Request Early Access</p>
+        <p>Try it now!</p>
       </div>
 
       <div className="gpt3__footer-links">
