@@ -10,7 +10,7 @@ const Possibility = () => {
       </div>
       <div className="gpt3__possibility-content">
         <h1 className="gradient__text">
-          GPT-3 powers the next generation of apps
+          GPT-4 powers the next generation of apps
         </h1>
         <p>
           ChatGPT and the language models it’s based on are revolutionizing the
